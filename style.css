@@ -30,7 +30,7 @@ a {
     padding-top: 25vh;
     padding-bottom: 1vh;
     height: 100vh;
-    width: 40vw;
+    width: 70vw;
     color: white;
     background-image: url("https://images.unsplash.com/photo-1572537577590-ac6a88150100?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80");
     background-size: 100vh;
@@ -39,10 +39,10 @@ a {
 h1 {
     background-color: rgba(0, 0, 0, 0.3);
     text-align: center;
-    padding: 1.5vh 0;
+    padding: 4vh 0;
     width: 100%;
     font-family: 'Press Start 2P', cursive;
-    font-size: 2.5rem;
+    font-size: 4rem;
 }
 
 .credit {
@@ -95,10 +95,11 @@ h1 {
     flex-flow: column wrap;
     width: 40%;
     font-size: 0.9rem;
-    letter-spacing: 0.3rem;
+    letter-spacing: 0.2rem;
 }
 
 input {
+    padding: 0.15rem 0.2rem;
     border: 1px solid #E5E7EB;
     border-radius: 3px;
     font-family: 'Rajdhani', sans-serif;;
